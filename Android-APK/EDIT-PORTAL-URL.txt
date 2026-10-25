@@ -1,0 +1,7 @@
+Edit this file in the project source:
+app/src/main/java/com/kingmetropolitan/portal/MainActivity.java
+
+Find:
+private static final String PORTAL_URL = "https://kingmetropolitanportal.netlify.app/";
+
+Replace only the URL inside quotes with your portal URL, save, upload/commit the project to GitHub, then run the Build Android APK workflow again.
